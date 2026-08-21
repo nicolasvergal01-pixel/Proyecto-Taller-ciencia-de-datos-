@@ -11,10 +11,11 @@ Este repositorio contiene el proyecto de análisis de datos e interpretación de
 * **Modelamiento y ML:** `scikit-learn` (Árboles de Decisión, Evaluación de Métricas)
 * **Análisis Espacial:** `geopandas` / Archivos Shapefile (`.shp`) de comunas del Gran Concepción.
 
- Estructura del Repositorio
+ Estructura del Repositorio:                                   
+ 
  ┣ data/                                                                                            
- ┣ notebooks/ analisis_emisiones.ipynb                                     # Cuaderno principal con el procesamiento y análisis
- ┣ reports/                    # Gráficos exportados, informes o tablas resumidas
- ┣ gitignore/                  # Archivos excluidos del control de versiones
- ┣ README.md/                  # Descripción general del proyecto
- ┗ requirements.txt/           # Dependencias de Python para replicar el entorno
+ ┣ notebooks/ analisis_emisiones.ipynb                                     # Cuaderno principal con el procesamiento y análisis                                 
+ ┣ reports/                    # Gráficos exportados, informes o tablas resumidas                                                
+ ┣ gitignore/                  # Archivos excluidos del control de versiones                                                    
+ ┣ README.md/                  # Descripción general del proyecto                                                       
+ ┗ requirements.txt/           # Dependencias de Python para replicar el entorno                                                 
