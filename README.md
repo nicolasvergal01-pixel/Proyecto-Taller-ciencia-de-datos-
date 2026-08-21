@@ -17,8 +17,7 @@ Este repositorio contiene el proyecto de análisis de datos e interpretación de
 
 ## Estructura del Repositorio
 ├── data/                       
-├── notebooks/
-│   └── analisis_emisiones.ipynb # Cuaderno principal con el procesamiento y análisis
+├── notebooks/ analisis_emisiones.ipynb # Cuaderno principal con el procesamiento y análisis
 ├── reports/                    # Gráficos exportados, informes o tablas resumidas
 ├── .gitignore                  # Archivos excluidos del control de versiones
 ├── README.md                   # Descripción general del proyecto
