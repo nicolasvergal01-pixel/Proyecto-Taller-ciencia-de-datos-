@@ -1,0 +1,19 @@
+#instalar librerías
+pip install pandas numpy pyodbc matplotlib seaborn scikit-learn geopandas 
+
+# Manipulación y análisis de datos
+pandas
+numpy
+
+# Conexión a Base de Datos Microsoft Access (ODBC)
+pyodbc
+
+# Visualización de datos
+matplotlib
+seaborn
+
+# Machine Learning y Modelado (Árboles de decisión, métricas de error)
+scikit-learn
+
+# Análisis e integración espacial (Shapefiles / GeoPandas)
+geopandas
