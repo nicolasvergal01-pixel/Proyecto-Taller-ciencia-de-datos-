@@ -6,16 +6,16 @@ Este repositorio contiene el proyecto de análisis de datos e interpretación de
 
 
 
-## 🛠️ Tecnologías y Librerías Utilizadas
+## Tecnologías y Librerías Utilizadas
 * **Lenguaje:** Python 3.x
 * **Entorno de desarrollo:** Visual Studio Code / Jupyter Notebooks (`.ipynb`)
 * **Procesamiento de datos:** `pandas`, `numpy`
 * **Conexión a Base de Datos:** `pyodbc` (Microsoft Access ODBC Driver)
 * **Visualización de Datos:** `matplotlib`, `seaborn`
-* **Modelamiento y ML (si aplica):** `scikit-learn` (Árboles de Decisión, Evaluación de Métricas)
-* **Análisis Espacial (si aplica):** `geopandas` / Archivos Shapefile (`.shp`) de comunas del Gran Concepción.
+* **Modelamiento y ML:** `scikit-learn` (Árboles de Decisión, Evaluación de Métricas)
+* **Análisis Espacial:** `geopandas` / Archivos Shapefile (`.shp`) de comunas del Gran Concepción.
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 ├── data/                       
 ├── notebooks/
 │   └── analisis_emisiones.ipynb # Cuaderno principal con el procesamiento y análisis
