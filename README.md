@@ -24,3 +24,22 @@ Este repositorio contiene el proyecto de análisis de datos e interpretación de
 ┗ requirements.txt            # Dependencias de Python para replicar el entorno
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
