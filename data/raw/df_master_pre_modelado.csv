@@ -1,0 +1,1473 @@
+﻿año,comuna_norm,grupo_vehiculo,contaminantes,emisiones_agregadas_toneladas,registros_ruea,registros_permiso,permisos_combustible_bencina,permisos_combustible_diesel,permisos_combustible_electrico,permisos_combustible_gas,registros_catalitico,permisos_cataliticos,permisos_no_cataliticos,tiene_registro_permiso
+2022,chiguayante,Buses,Compuestos Orgánicos Volátiles,0.864329009,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.7794e-07,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Dióxido de azufre (SO2),0.124251023,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Dióxido de carbono (CO2),17002683672.0,8,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,MP10,652744394.9853703,31,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,"MP2,5",1579220304.2382326,31,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Material particulado,6883537373.691426,31,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Mercurio,0.00070053664,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Metano (CH4),0.155227679,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Monóxido de carbono,8049316020.807174,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,NOx,13409354753.763193,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Nitrógeno amoniacal (o NH3),0.161458209,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Buses,Oxido Nitroso,0.710300951,7,663.0,224.0,439.0,0.0,0.0,663.0,663.0,0.0,True
+2022,chiguayante,Camiones,Compuestos Orgánicos Volátiles,2368192091.6198144,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.2061e-07,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Dióxido de azufre (SO2),8.867113492,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Dióxido de carbono (CO2),29061301945.0,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,MP10,3.222606648,56,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,"MP2,5",2.460120542,56,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Material particulado,1495873665.66266,56,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Mercurio,0.00030680605,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Metano (CH4),1.060148487,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Monóxido de carbono,14008840501.482698,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,NOx,6498452644.514725,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Nitrógeno amoniacal (o NH3),0.85754375,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Camiones,Oxido Nitroso,0.113966017,14,441.0,64.0,377.0,0.0,0.0,441.0,419.0,22.0,True
+2022,chiguayante,Comerciales livianos,Compuestos Orgánicos Volátiles,21923822905.687588,21,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),7.782799999999999e-07,14,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Dióxido de azufre (SO2),3.584202809,14,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Dióxido de carbono (CO2),29383066949.0,15,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,MP10,10896537109.816898,59,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,"MP2,5",6213949931.282948,59,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Material particulado,15863964833.537992,59,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Mercurio,0.0047674864699999995,14,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Metano (CH4),9.053590226999999,12,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Monóxido de carbono,38837899438.31728,14,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,NOx,21081804130.76552,14,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Nitrógeno amoniacal (o NH3),0.901488346,7,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Comerciales livianos,Oxido Nitroso,6.307973014,14,6663.0,2380.0,4283.0,0.0,0.0,6663.0,6534.0,129.0,True
+2022,chiguayante,Livianos pasajeros,Compuestos Orgánicos Volátiles,18736629973.051228,88,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.4097099999999999e-06,28,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Dióxido de azufre (SO2),21.421115989,74,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Dióxido de carbono (CO2),91779858082.7529,76,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,MP10,17282776176.339905,296,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,"MP2,5",6067303438.723563,296,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Material particulado,33840557585.985085,296,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Mercurio,0.013172260920000001,28,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Metano (CH4),28.003945385999998,74,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Monóxido de carbono,25974933351.156227,74,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,NOx,24781150176.90393,74,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Nitrógeno amoniacal (o NH3),2607673682.482026,34,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Livianos pasajeros,Oxido Nitroso,1157633847.6345143,48,26591.0,24128.0,2401.0,62.0,0.0,26591.0,26332.0,259.0,True
+2022,chiguayante,Motocicletas,Compuestos Orgánicos Volátiles,6840064398.076389,24,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.4996e-07,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Dióxido de azufre (SO2),6.931872735000001,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Dióxido de carbono (CO2),14076540626.0,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,MP10,0.30341157,48,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,"MP2,5",16.070365698,48,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Material particulado,1.216785749,48,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Mercurio,0.00020780935,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Metano (CH4),0.47426146399999997,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Monóxido de carbono,4941507537.101222,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,NOx,0.7219390349999999,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Nitrógeno amoniacal (o NH3),6.490905532999999,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,chiguayante,Motocicletas,Oxido Nitroso,6.490905532999999,12,751.0,747.0,0.0,4.0,0.0,751.0,745.0,6.0,True
+2022,concepcion,Buses,Compuestos Orgánicos Volátiles,4365073485.461907,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),7.395099999999999e-07,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Dióxido de azufre (SO2),0.616955179,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Dióxido de carbono (CO2),19238640370.0,8,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,MP10,9212259841.976946,31,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,"MP2,5",6279165083.842258,31,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Material particulado,17417241713.266632,31,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Mercurio,0.0029580212,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Metano (CH4),0.6451411539999999,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Monóxido de carbono,5799357736.933647,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,NOx,20990390143.0,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Nitrógeno amoniacal (o NH3),0.6710358280000001,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Buses,Oxido Nitroso,2673660994.278418,7,545.0,41.0,504.0,0.0,0.0,545.0,543.0,2.0,True
+2022,concepcion,Camiones,Compuestos Orgánicos Volátiles,2192646105.388702,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.7186e-07,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Dióxido de azufre (SO2),7.509730584,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Dióxido de carbono (CO2),50353660284.0,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,MP10,2760105551.742355,56,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,"MP2,5",4.2326056880000005,56,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Material particulado,7205455157.124261,56,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Mercurio,0.00060334587,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Metano (CH4),14.032728274,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Monóxido de carbono,13994465175.50691,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,NOx,21440233856.20606,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Nitrógeno amoniacal (o NH3),14.175934598,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Camiones,Oxido Nitroso,0.3327973,14,1140.0,41.0,1099.0,0.0,0.0,1140.0,1082.0,58.0,True
+2022,concepcion,Comerciales livianos,Compuestos Orgánicos Volátiles,22192823417.083115,49,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.25274e-06,14,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Dióxido de azufre (SO2),0.958297752,14,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Dióxido de carbono (CO2),48543784457.0,15,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,MP10,27563464701.684296,66,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,"MP2,5",16458258052.391531,66,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Material particulado,50689106962.67095,66,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Mercurio,0.01618300004,14,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Metano (CH4),1019541550.4230822,12,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Monóxido de carbono,39790308463.84687,28,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,NOx,23710168348.146946,28,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Nitrógeno amoniacal (o NH3),2744919556.3370633,14,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Comerciales livianos,Oxido Nitroso,4983365601.35636,14,12215.0,4918.0,7296.0,1.0,0.0,12215.0,11957.0,258.0,True
+2022,concepcion,Livianos pasajeros,Compuestos Orgánicos Volátiles,73430205302.81528,146,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),5.94309e-06,28,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Dióxido de azufre (SO2),49.884223712,74,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Dióxido de carbono (CO2),150940302100.2886,76,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,MP10,69308268712.67076,310,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,"MP2,5",41736506317.917366,310,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Material particulado,79861414468.76935,310,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Mercurio,0.03573882639,28,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Metano (CH4),2633069827.6752586,74,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Monóxido de carbono,51094480582.6308,104,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,NOx,31403787198.386055,104,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Nitrógeno amoniacal (o NH3),7089034001.162037,68,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Livianos pasajeros,Oxido Nitroso,3147060038.941397,48,43878.0,39712.0,4072.0,94.0,0.0,43878.0,43375.0,503.0,True
+2022,concepcion,Motocicletas,Compuestos Orgánicos Volátiles,5752308458.722526,48,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.4249600000000002e-06,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Dióxido de azufre (SO2),0.015233598000000001,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Dióxido de carbono (CO2),10387180189.0,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,MP10,1.1626565,48,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,"MP2,5",0.443823017,48,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Material particulado,3508880763.4229884,48,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Mercurio,0.00067268078,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Metano (CH4),1087244066.3777227,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Monóxido de carbono,5708105344.308885,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,NOx,181276651.40571818,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Nitrógeno amoniacal (o NH3),0.019399735,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Motocicletas,Oxido Nitroso,0.019399735,12,2556.0,2553.0,0.0,3.0,0.0,2556.0,2530.0,26.0,True
+2022,concepcion,Taxis,Compuestos Orgánicos Volátiles,7.02297653,29,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,concepcion,Taxis,MP10,17.734493281,7,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,concepcion,Taxis,"MP2,5",17.734493281,7,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,concepcion,Taxis,Material particulado,17.734493281,7,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,concepcion,Taxis,Monóxido de carbono,6.672317577,15,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,concepcion,Taxis,NOx,16.163370084,15,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,concepcion,Taxis,Nitrógeno amoniacal (o NH3),3.152771,17,396.0,346.0,49.0,1.0,0.0,396.0,396.0,0.0,True
+2022,coronel,Buses,Compuestos Orgánicos Volátiles,1149734434.6099172,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.8292e-07,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Dióxido de azufre (SO2),0.25866654699999997,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Dióxido de carbono (CO2),21659037284.0,8,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,MP10,5727534088.152404,31,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,"MP2,5",4285804965.851433,31,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Material particulado,21437789500.728477,31,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Mercurio,0.00033072422999999996,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Metano (CH4),0.334057519,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Monóxido de carbono,17199959358.374348,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,NOx,11018201246.0,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Nitrógeno amoniacal (o NH3),0.347465918,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Buses,Oxido Nitroso,1384435874.1441662,7,61.0,22.0,39.0,0.0,0.0,61.0,61.0,0.0,True
+2022,coronel,Camiones,Compuestos Orgánicos Volátiles,3.0423160680000003,14,,,,,,,,,False
+2022,coronel,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.6986e-07,14,,,,,,,,,False
+2022,coronel,Camiones,Dióxido de azufre (SO2),3.7786640929999997,14,,,,,,,,,False
+2022,coronel,Camiones,Dióxido de carbono (CO2),54343945431.0,14,,,,,,,,,False
+2022,coronel,Camiones,MP10,3954897498.7873206,56,,,,,,,,,False
+2022,coronel,Camiones,"MP2,5",5304862697.989293,56,,,,,,,,,False
+2022,coronel,Camiones,Material particulado,18273942090.36967,56,,,,,,,,,False
+2022,coronel,Camiones,Mercurio,0.0010819970000000001,14,,,,,,,,,False
+2022,coronel,Camiones,Metano (CH4),3.217061935,14,,,,,,,,,False
+2022,coronel,Camiones,Monóxido de carbono,10249276818.757914,14,,,,,,,,,False
+2022,coronel,Camiones,NOx,26044420898.23225,14,,,,,,,,,False
+2022,coronel,Camiones,Nitrógeno amoniacal (o NH3),0.29763854,14,,,,,,,,,False
+2022,coronel,Camiones,Oxido Nitroso,7.315531434,14,,,,,,,,,False
+2022,coronel,Comerciales livianos,Compuestos Orgánicos Volátiles,15865781823.730293,49,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.27452e-06,14,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Dióxido de azufre (SO2),10.271955242999999,14,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Dióxido de carbono (CO2),50666499877.0,15,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,MP10,23581693596.27475,66,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,"MP2,5",9647497896.960796,66,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Material particulado,44007131536.97936,66,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Mercurio,0.013774640270000001,14,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Metano (CH4),2.030111177,12,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Monóxido de carbono,29910648282.25959,28,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,NOx,13903360010.205774,28,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Nitrógeno amoniacal (o NH3),2281354934.4680634,14,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Comerciales livianos,Oxido Nitroso,4141770086.2961783,14,7803.0,3659.0,4143.0,1.0,0.0,7803.0,7495.0,308.0,True
+2022,coronel,Livianos pasajeros,Compuestos Orgánicos Volátiles,42613604385.66255,146,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.47196e-06,28,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Dióxido de azufre (SO2),50.094645254,74,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Dióxido de carbono (CO2),127637900861.00734,76,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,MP10,51621984477.785126,310,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,"MP2,5",23465234346.539703,310,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Material particulado,53604744400.44828,310,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Mercurio,0.01832110114,28,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Metano (CH4),1604942388.7082663,74,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Monóxido de carbono,68469521768.62944,104,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,NOx,53515481981.21668,104,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Nitrógeno amoniacal (o NH3),4320998583.217521,68,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Livianos pasajeros,Oxido Nitroso,1918236246.167586,48,33073.0,31090.0,1968.0,15.0,0.0,33073.0,32382.0,691.0,True
+2022,coronel,Motocicletas,Compuestos Orgánicos Volátiles,11582937692.270702,48,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.30283e-06,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Dióxido de azufre (SO2),0.008156662,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Dióxido de carbono (CO2),18534822917.0,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,MP10,0.678180561,48,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,"MP2,5",0.251518757,48,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Material particulado,2094251686.8321257,48,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Mercurio,0.00031482758,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Metano (CH4),0.787068349,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Monóxido de carbono,8116681338.163057,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,NOx,1.152246213,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Nitrógeno amoniacal (o NH3),0.010422707,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Motocicletas,Oxido Nitroso,0.010422707,12,1185.0,1185.0,0.0,0.0,0.0,1185.0,1154.0,31.0,True
+2022,coronel,Taxis,Compuestos Orgánicos Volátiles,8.566545586,29,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,coronel,Taxis,MP10,9.184354,7,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,coronel,Taxis,"MP2,5",9.184354,7,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,coronel,Taxis,Material particulado,9.184354,7,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,coronel,Taxis,Monóxido de carbono,18.793252804,15,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,coronel,Taxis,NOx,15.732718793,15,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,coronel,Taxis,Nitrógeno amoniacal (o NH3),0.9321926,17,57.0,53.0,4.0,0.0,0.0,57.0,57.0,0.0,True
+2022,hualpen,Buses,Compuestos Orgánicos Volátiles,1.3510353849999999,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.0400999999999999e-07,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Dióxido de azufre (SO2),0.171330386,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Dióxido de carbono (CO2),21479413990.0,8,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,MP10,2348717815.880727,31,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,"MP2,5",256144874.64499772,31,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Material particulado,11187022667.471573,31,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Mercurio,0.00073805662,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Metano (CH4),0.177971636,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Monóxido de carbono,14363961486.085615,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,NOx,7761722968.0,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Nitrógeno amoniacal (o NH3),0.185115061,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Buses,Oxido Nitroso,0.81437423,7,2667.0,252.0,2408.0,7.0,0.0,2667.0,2665.0,2.0,True
+2022,hualpen,Camiones,Compuestos Orgánicos Volátiles,1.642002672,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.2003999999999998e-07,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Dióxido de azufre (SO2),13.917133767,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Dióxido de carbono (CO2),37905701660.0,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,MP10,1423653482.1096787,56,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,"MP2,5",11.19605963,56,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Material particulado,11053759874.964287,56,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Mercurio,0.00048211826,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Metano (CH4),9.739472724,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Monóxido de carbono,6418240411.271675,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,NOx,16366200965.645252,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Nitrógeno amoniacal (o NH3),10.000991092000001,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Camiones,Oxido Nitroso,7.807198397,14,2460.0,79.0,2381.0,0.0,0.0,2460.0,2386.0,74.0,True
+2022,hualpen,Comerciales livianos,Compuestos Orgánicos Volátiles,22176046465.72559,49,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.823699999999999e-07,14,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Dióxido de azufre (SO2),4.924961498,14,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Dióxido de carbono (CO2),46882509676.0,15,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,MP10,15749830694.95759,66,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,"MP2,5",8362870818.678761,66,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Material particulado,27297299030.167946,66,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Mercurio,0.006944542349999999,14,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Metano (CH4),1.023488619,12,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Monóxido de carbono,42140025661.322464,28,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,NOx,14467552046.867731,28,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Nitrógeno amoniacal (o NH3),1150154157.4096127,14,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Comerciales livianos,Oxido Nitroso,1406807941.7816818,14,8613.0,3034.0,5567.0,12.0,0.0,8613.0,8458.0,155.0,True
+2022,hualpen,Livianos pasajeros,Compuestos Orgánicos Volátiles,37418070402.57576,146,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.88375e-06,28,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Dióxido de azufre (SO2),56.048902416,74,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Dióxido de carbono (CO2),131304903671.35338,76,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,MP10,30285605705.87223,310,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,"MP2,5",12939094614.667505,310,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Material particulado,55875364485.27116,310,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Mercurio,0.01751938889,28,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Metano (CH4),1267855012.834447,74,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Monóxido de carbono,45572329380.11174,104,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,NOx,39977144849.931206,104,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Nitrógeno amoniacal (o NH3),3413455702.0274124,68,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Livianos pasajeros,Oxido Nitroso,1515347508.4205022,48,29668.0,27147.0,2514.0,7.0,0.0,29668.0,29311.0,357.0,True
+2022,hualpen,Motocicletas,Compuestos Orgánicos Volátiles,13819349630.823895,48,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.49461e-06,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Dióxido de azufre (SO2),0.008438462,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Dióxido de carbono (CO2),18540330720.0,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,MP10,0.611906427,48,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,"MP2,5",0.247716592,48,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Material particulado,175871213.74496788,48,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Mercurio,0.00036116759000000005,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Metano (CH4),0.9029191329999999,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Monóxido de carbono,8441278250.168269,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,NOx,1193464471.2645657,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Nitrógeno amoniacal (o NH3),0.011956853,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Motocicletas,Oxido Nitroso,0.011956853,12,2015.0,2013.0,0.0,2.0,0.0,2015.0,2004.0,11.0,True
+2022,hualpen,Taxis,Compuestos Orgánicos Volátiles,7.791296517000001,29,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualpen,Taxis,MP10,18.678210374000003,7,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualpen,Taxis,"MP2,5",18.678210374000003,7,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualpen,Taxis,Material particulado,18.678210374000003,7,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualpen,Taxis,Monóxido de carbono,7.027370333,15,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualpen,Taxis,NOx,17.023488414,15,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualpen,Taxis,Nitrógeno amoniacal (o NH3),3.1697539999999997,17,307.0,254.0,53.0,0.0,0.0,307.0,307.0,0.0,True
+2022,hualqui,Buses,Compuestos Orgánicos Volátiles,0.120086303,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.4210000000000003e-08,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Dióxido de azufre (SO2),0.018207224,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Dióxido de carbono (CO2),15228677980.0,8,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,MP10,0.7854600730000001,31,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,"MP2,5",0.263378614,31,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Material particulado,2430349274.783851,31,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Mercurio,9.855076000000001e-05,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Metano (CH4),0.023764069999999998,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Monóxido de carbono,1.160949599,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,NOx,1636615253.4019985,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Nitrógeno amoniacal (o NH3),4.115087008000001,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Buses,Oxido Nitroso,8.571586557,7,185.0,16.0,169.0,0.0,0.0,185.0,185.0,0.0,True
+2022,hualqui,Camiones,Compuestos Orgánicos Volátiles,0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Dióxido de azufre (SO2),0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Dióxido de carbono (CO2),0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,MP10,0.0,56,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,"MP2,5",0.0,56,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Material particulado,0.0,56,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Mercurio,0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Metano (CH4),0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Monóxido de carbono,0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,NOx,0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Nitrógeno amoniacal (o NH3),0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Camiones,Oxido Nitroso,0.0,14,227.0,14.0,213.0,0.0,0.0,227.0,217.0,10.0,True
+2022,hualqui,Comerciales livianos,Compuestos Orgánicos Volátiles,1165199190.072763,21,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.2431e-07,14,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Dióxido de azufre (SO2),10.033512981,14,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Dióxido de carbono (CO2),43719576087.44874,15,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,MP10,2826222254.8840604,59,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,"MP2,5",1568802321.1967747,59,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Material particulado,10347577227.67667,59,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Mercurio,0.00063304452,14,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Metano (CH4),1.344722946,12,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Monóxido de carbono,14090672963.929087,14,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,NOx,8359509107.129135,14,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Nitrógeno amoniacal (o NH3),3.14849265,7,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Comerciales livianos,Oxido Nitroso,0.852941131,14,2454.0,1077.0,1377.0,0.0,0.0,2454.0,2358.0,96.0,True
+2022,hualqui,Livianos pasajeros,Compuestos Orgánicos Volátiles,6505079940.867897,88,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.5106e-07,28,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Dióxido de azufre (SO2),18.071240754999998,74,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Dióxido de carbono (CO2),72933829406.44513,76,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,MP10,133702876.42979814,296,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,"MP2,5",97.482870716,296,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Material particulado,23210406801.03457,296,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Mercurio,0.00126337529,28,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Metano (CH4),20.262704485,74,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Monóxido de carbono,15956379331.731401,74,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,NOx,9627206217.991568,74,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Nitrógeno amoniacal (o NH3),2.076655083,34,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Livianos pasajeros,Oxido Nitroso,13.700537189999999,48,3697.0,3372.0,325.0,0.0,0.0,3697.0,3615.0,82.0,True
+2022,hualqui,Motocicletas,Compuestos Orgánicos Volátiles,8.49471267,24,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.0667999999999999e-07,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Dióxido de azufre (SO2),17.346650042,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Dióxido de carbono (CO2),12940552770.866209,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,MP10,27.399460094,48,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,"MP2,5",24.527118781,48,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Material particulado,21.487942895,48,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Mercurio,2.5781570000000002e-05,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Metano (CH4),0.064453777,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Monóxido de carbono,6197255468.012796,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,NOx,8.116555889,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Nitrógeno amoniacal (o NH3),3.059948322,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,hualqui,Motocicletas,Oxido Nitroso,3.059948322,12,201.0,201.0,0.0,0.0,0.0,201.0,201.0,0.0,True
+2022,lota,Buses,Compuestos Orgánicos Volátiles,0.6025121019999999,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),7.133999999999999e-08,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Dióxido de azufre (SO2),0.07097653100000001,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Dióxido de carbono (CO2),21539740122.0,8,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,MP10,7185445869.286072,31,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,"MP2,5",1738414323.8059757,31,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Material particulado,8568626116.794293,31,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Mercurio,0.00028487200000000003,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Metano (CH4),0.063224138,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Monóxido de carbono,3761215857.4724593,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,NOx,12447862510.457685,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Nitrógeno amoniacal (o NH3),0.065761828,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Buses,Oxido Nitroso,0.289305137,7,290.0,5.0,285.0,0.0,0.0,290.0,289.0,1.0,True
+2022,lota,Camiones,Compuestos Orgánicos Volátiles,0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Dióxido de azufre (SO2),0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Dióxido de carbono (CO2),0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,MP10,0.0,56,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,"MP2,5",0.0,56,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Material particulado,0.0,56,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Mercurio,0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Metano (CH4),0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Monóxido de carbono,0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,NOx,0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Nitrógeno amoniacal (o NH3),0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Camiones,Oxido Nitroso,0.0,14,168.0,0.0,168.0,0.0,0.0,168.0,158.0,10.0,True
+2022,lota,Comerciales livianos,Compuestos Orgánicos Volátiles,6100393431.230342,49,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.8736e-07,14,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Dióxido de azufre (SO2),17.135294517,14,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Dióxido de carbono (CO2),51205535952.71352,15,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,MP10,2418448087.719786,66,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,"MP2,5",2418448106.8970466,66,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Material particulado,10368131387.414724,66,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Mercurio,0.00095107701,14,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Metano (CH4),3.961074213,12,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Monóxido de carbono,29366623022.840366,28,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,NOx,2928132780.2025905,28,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Nitrógeno amoniacal (o NH3),5.550837477,14,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Comerciales livianos,Oxido Nitroso,3.57780044,14,1592.0,710.0,882.0,0.0,0.0,1592.0,1534.0,58.0,True
+2022,lota,Livianos pasajeros,Compuestos Orgánicos Volátiles,17137001988.796984,146,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.4827e-07,28,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Dióxido de azufre (SO2),15.944614134,74,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Dióxido de carbono (CO2),74783476786.81477,76,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,MP10,133.843670693,310,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,"MP2,5",135.148598322,310,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Material particulado,9421722834.959913,310,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Mercurio,0.0015661217,28,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Metano (CH4),29.143493793,74,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Monóxido de carbono,28830743601.355877,104,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,NOx,13017782948.893974,104,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Nitrógeno amoniacal (o NH3),18.7068126194,68,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Livianos pasajeros,Oxido Nitroso,15.802774744,48,6275.0,5692.0,581.0,2.0,0.0,6275.0,6221.0,54.0,True
+2022,lota,Motocicletas,Compuestos Orgánicos Volátiles,1199512406.0532322,48,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),8.479999999999999e-08,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Dióxido de azufre (SO2),17.274019614,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Dióxido de carbono (CO2),21849822770.906757,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,MP10,19.89302606,48,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,"MP2,5",28.45078672,48,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Material particulado,12.640771385,48,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Mercurio,2.5119260000000002e-05,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Metano (CH4),0.054196397,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Monóxido de carbono,5934313392.012351,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,NOx,7.694256004,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Nitrógeno amoniacal (o NH3),4.569216775,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Motocicletas,Oxido Nitroso,4.569216775,12,184.0,184.0,0.0,0.0,0.0,184.0,179.0,5.0,True
+2022,lota,Taxis,Compuestos Orgánicos Volátiles,4.794033963,29,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,lota,Taxis,MP10,15.413263266,7,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,lota,Taxis,"MP2,5",15.413263266,7,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,lota,Taxis,Material particulado,15.413263266,7,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,lota,Taxis,Monóxido de carbono,9.610195747,15,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,lota,Taxis,NOx,1.964059992,15,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,lota,Taxis,Nitrógeno amoniacal (o NH3),4.540974,17,242.0,207.0,33.0,1.0,1.0,242.0,242.0,0.0,True
+2022,penco,Buses,Compuestos Orgánicos Volátiles,1294173264.671264,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.3910999999999997e-07,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Dióxido de azufre (SO2),0.264601904,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Dióxido de carbono (CO2),10712751905.0,8,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,MP10,7095062591.837153,31,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,"MP2,5",135894796.10439372,31,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Material particulado,10065293475.814535,31,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Mercurio,0.00122681553,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Metano (CH4),0.29582895600000003,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Monóxido de carbono,10132165858.414827,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,NOx,12468004743.0,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Nitrógeno amoniacal (o NH3),0.307702937,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Buses,Oxido Nitroso,1226005092.1276684,7,412.0,7.0,405.0,0.0,0.0,412.0,412.0,0.0,True
+2022,penco,Camiones,Compuestos Orgánicos Volátiles,1.531823481,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.4373e-07,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Dióxido de azufre (SO2),2.43306524,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Dióxido de carbono (CO2),43977680794.0,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,MP10,3677259300.01281,56,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,"MP2,5",8.447999593,56,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Material particulado,5004178761.362256,56,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Mercurio,0.0005272674999999999,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Metano (CH4),2.132798614,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Monóxido de carbono,3791444203.9255695,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,NOx,19410147173.65223,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Nitrógeno amoniacal (o NH3),10.777577517,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Camiones,Oxido Nitroso,4.835967800000001,14,473.0,2.0,471.0,0.0,0.0,473.0,453.0,20.0,True
+2022,penco,Comerciales livianos,Compuestos Orgánicos Volátiles,22607059146.78081,21,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.52913e-06,14,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Dióxido de azufre (SO2),5.779798833999999,14,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Dióxido de carbono (CO2),55754648291.0,15,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,MP10,21619835685.918037,59,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,"MP2,5",11723506614.785196,59,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Material particulado,33263616861.248417,59,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Mercurio,0.00476586529,14,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Metano (CH4),1.158012046,12,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Monóxido de carbono,27107710171.5913,14,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,NOx,22613715667.84554,14,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Nitrógeno amoniacal (o NH3),1301326017.1844187,7,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Comerciales livianos,Oxido Nitroso,1591713394.8044739,14,3289.0,1220.0,2069.0,0.0,0.0,3289.0,3180.0,109.0,True
+2022,penco,Livianos pasajeros,Compuestos Orgánicos Volátiles,21283790534.668076,88,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.7911700000000001e-06,28,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Dióxido de azufre (SO2),49.37506146,74,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Dióxido de carbono (CO2),106210525156.38397,76,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,MP10,35119441348.60141,296,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,"MP2,5",14694074876.098076,296,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Material particulado,51777925376.64111,296,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Mercurio,0.01247119141,28,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Metano (CH4),1189123829.0250974,74,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Monóxido de carbono,29591098456.755886,74,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,NOx,35160667800.20514,74,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Nitrógeno amoniacal (o NH3),3201487125.313487,34,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Livianos pasajeros,Oxido Nitroso,1421247557.1198332,48,10135.0,9162.0,970.0,3.0,0.0,10135.0,9980.0,155.0,True
+2022,penco,Motocicletas,Compuestos Orgánicos Volátiles,6135871407.071972,24,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),7.8784e-07,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Dióxido de azufre (SO2),5.881422165999999,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Dióxido de carbono (CO2),22251726133.0,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,MP10,0.377896991,48,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,"MP2,5",15.781007897,48,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Material particulado,114399911.46260786,48,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Mercurio,7.023368e-05,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Metano (CH4),0.47595188200000005,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Monóxido de carbono,4486793195.088328,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,NOx,0.7423763,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Nitrógeno amoniacal (o NH3),0.6570176870000001,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,penco,Motocicletas,Oxido Nitroso,0.6570176870000001,12,488.0,488.0,0.0,0.0,0.0,488.0,483.0,5.0,True
+2022,san pedro de la paz,Buses,Compuestos Orgánicos Volátiles,1343003584.6921144,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.2103e-07,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Dióxido de azufre (SO2),0.296506803,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Dióxido de carbono (CO2),13855032206.0,8,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,MP10,3506779202.593575,31,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,"MP2,5",3.0795819399999997,31,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Material particulado,8001070262.756302,31,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Mercurio,0.00171103533,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Metano (CH4),0.373174577,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Monóxido de carbono,11070040615.43151,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,NOx,12781136258.0,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Nitrógeno amoniacal (o NH3),0.38815305499999997,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Buses,Oxido Nitroso,1546548846.1610477,7,791.0,134.0,657.0,0.0,0.0,791.0,790.0,1.0,True
+2022,san pedro de la paz,Camiones,Compuestos Orgánicos Volátiles,3.273493514,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.7283000000000002e-07,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Dióxido de azufre (SO2),6.768611309,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Dióxido de carbono (CO2),34102820346.0,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,MP10,4.554036185,56,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,"MP2,5",3.2047357830000003,56,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Material particulado,3377951171.9464583,56,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Mercurio,0.00081723146,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Metano (CH4),0.9183379220000001,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Monóxido de carbono,7607111654.498687,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,NOx,20679327781.04383,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Nitrógeno amoniacal (o NH3),6.000437236000001,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Camiones,Oxido Nitroso,0.417786477,14,1617.0,175.0,1440.0,2.0,0.0,1617.0,1576.0,41.0,True
+2022,san pedro de la paz,Comerciales livianos,Compuestos Orgánicos Volátiles,18676032596.585888,49,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.74813e-06,14,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Dióxido de azufre (SO2),1.004389318,14,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Dióxido de carbono (CO2),51279077202.0,15,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,MP10,28429570517.55753,66,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,"MP2,5",13834654088.221674,66,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Material particulado,28423261196.259827,66,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Mercurio,0.017791143409999998,14,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Metano (CH4),1094438933.5276244,12,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Monóxido de carbono,40042812220.5139,28,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,NOx,22516166087.460625,28,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Nitrógeno amoniacal (o NH3),2946566356.1844177,14,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Comerciales livianos,Oxido Nitroso,2105776559.3825397,14,7348.0,2660.0,4686.0,2.0,0.0,7348.0,7218.0,130.0,True
+2022,san pedro de la paz,Livianos pasajeros,Compuestos Orgánicos Volátiles,58822590461.408714,146,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.03547e-06,28,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Dióxido de azufre (SO2),56.751194221,74,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Dióxido de carbono (CO2),146773660156.4631,76,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,MP10,52229621170.166275,310,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,"MP2,5",27423657690.330494,310,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Material particulado,62488087869.4685,310,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Mercurio,0.03795943912,28,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Metano (CH4),2803079616.9123282,74,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Monóxido de carbono,73842896506.47296,104,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,NOx,24714260170.99304,104,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Nitrógeno amoniacal (o NH3),7546752637.807958,68,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Livianos pasajeros,Oxido Nitroso,3350256697.37889,48,28740.0,25937.0,2780.0,23.0,0.0,28740.0,28485.0,255.0,True
+2022,san pedro de la paz,Motocicletas,Compuestos Orgánicos Volátiles,8217482109.265062,48,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.76509e-06,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Dióxido de azufre (SO2),0.01665359,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Dióxido de carbono (CO2),13491507986.0,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,MP10,0.768398881,48,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,"MP2,5",0.370747048,48,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Material particulado,1810714838.9182782,48,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Mercurio,0.00072474771,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Metano (CH4),1239736822.4307008,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Monóxido de carbono,6218978550.332442,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,NOx,2099550067.4667642,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Nitrógeno amoniacal (o NH3),0.022120669,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Motocicletas,Oxido Nitroso,0.022120669,12,1413.0,1404.0,0.0,9.0,0.0,1413.0,1401.0,12.0,True
+2022,san pedro de la paz,Taxis,Compuestos Orgánicos Volátiles,3.959635366,29,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,san pedro de la paz,Taxis,MP10,16.125808,7,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,san pedro de la paz,Taxis,"MP2,5",16.125808,7,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,san pedro de la paz,Taxis,Material particulado,16.125808,7,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,san pedro de la paz,Taxis,Monóxido de carbono,9.820961075,15,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,san pedro de la paz,Taxis,NOx,16.394360767,15,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,san pedro de la paz,Taxis,Nitrógeno amoniacal (o NH3),1.6367338,17,37.0,32.0,5.0,0.0,0.0,37.0,37.0,0.0,True
+2022,talcahuano,Buses,Compuestos Orgánicos Volátiles,1579011786.785905,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.0214e-07,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Dióxido de azufre (SO2),0.33401930199999996,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Dióxido de carbono (CO2),12063214610.0,8,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,MP10,7193875183.56199,31,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,"MP2,5",4268905727.304965,31,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Material particulado,20955125960.021282,31,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Mercurio,0.0017113893599999999,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Metano (CH4),0.412676119,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Monóxido de carbono,3940755695.4764786,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,NOx,15393566469.0,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Nitrógeno amoniacal (o NH3),0.429240113,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Buses,Oxido Nitroso,1710255248.178095,7,445.0,28.0,417.0,0.0,0.0,445.0,443.0,2.0,True
+2022,talcahuano,Camiones,Compuestos Orgánicos Volátiles,0.8616448809999999,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),8.41e-08,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Dióxido de azufre (SO2),6.804013444,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Dióxido de carbono (CO2),42517206890.0,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,MP10,1067759053.4790032,56,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,"MP2,5",30.679772309,56,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Material particulado,5562680140.202956,56,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Mercurio,0.00033414594999999994,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Metano (CH4),7.747298636,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Monóxido de carbono,1319000530.377327,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,NOx,10625700780.09123,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Nitrógeno amoniacal (o NH3),20.079757631,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Camiones,Oxido Nitroso,2.230063909,14,1101.0,17.0,1084.0,0.0,0.0,1101.0,1067.0,34.0,True
+2022,talcahuano,Comerciales livianos,Compuestos Orgánicos Volátiles,14492884601.297735,49,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.92325e-06,14,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Dióxido de azufre (SO2),0.842711576,14,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Dióxido de carbono (CO2),53778619063.0,15,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,MP10,12612966970.884153,66,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,"MP2,5",7418124821.642169,66,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Material particulado,26367335741.621162,66,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Mercurio,0.01489641346,14,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Metano (CH4),2.1954374100000003,12,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Monóxido de carbono,34863600186.31385,28,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,NOx,21922453413.493374,28,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Nitrógeno amoniacal (o NH3),2467141714.583373,14,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Comerciales livianos,Oxido Nitroso,1763153638.3202982,14,6240.0,2193.0,4047.0,0.0,0.0,6240.0,6141.0,99.0,True
+2022,talcahuano,Livianos pasajeros,Compuestos Orgánicos Volátiles,61775291139.2454,146,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.12206e-06,28,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Dióxido de azufre (SO2),52.040572224,74,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Dióxido de carbono (CO2),121107632623.83134,76,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,MP10,64217521266.78911,310,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,"MP2,5",39623456309.508064,310,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Material particulado,81070230283.52536,310,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Mercurio,0.03513355921,28,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Metano (CH4),2733733970.8674817,74,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Monóxido de carbono,68552727117.84629,104,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,NOx,32911942440.8318,104,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Nitrógeno amoniacal (o NH3),7360052842.603268,68,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Livianos pasajeros,Oxido Nitroso,3267374391.479441,48,27080.0,24826.0,2248.0,6.0,0.0,27080.0,26821.0,259.0,True
+2022,talcahuano,Motocicletas,Compuestos Orgánicos Volátiles,11096054786.822552,48,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.05086e-06,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Dióxido de azufre (SO2),0.018623635,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Dióxido de carbono (CO2),15259029573.0,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,MP10,1.197847336,48,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,"MP2,5",0.49375656,48,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Material particulado,3378823870.4556584,48,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Mercurio,0.0008542424199999999,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Metano (CH4),1367867975.4752152,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Monóxido de carbono,5802176755.374504,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,NOx,2329808422.519557,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Nitrógeno amoniacal (o NH3),0.024406918999999996,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Motocicletas,Oxido Nitroso,0.024406918999999996,12,1284.0,1282.0,0.0,2.0,0.0,1284.0,1270.0,14.0,True
+2022,talcahuano,Taxis,Compuestos Orgánicos Volátiles,7.4939764890000005,29,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,talcahuano,Taxis,MP10,17.418370906,7,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,talcahuano,Taxis,"MP2,5",17.418370906,7,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,talcahuano,Taxis,Material particulado,17.418370906,7,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,talcahuano,Taxis,Monóxido de carbono,6.553389393999999,15,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,talcahuano,Taxis,NOx,9.235610101,15,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,talcahuano,Taxis,Nitrógeno amoniacal (o NH3),3.09658,17,215.0,140.0,75.0,0.0,0.0,215.0,215.0,0.0,True
+2022,tome,Buses,Compuestos Orgánicos Volátiles,1.034736956,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.109e-08,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Dióxido de azufre (SO2),0.138453498,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Dióxido de carbono (CO2),10889366977.0,8,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,MP10,6075709335.934583,31,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,"MP2,5",1469929678.2641337,31,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Material particulado,9255882898.675678,31,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Mercurio,0.00014801007,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Metano (CH4),0.15279980199999998,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Monóxido de carbono,9958251081.979092,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,NOx,5583345895.926088,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Nitrógeno amoniacal (o NH3),0.15893288,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Buses,Oxido Nitroso,0.699191306,7,304.0,12.0,292.0,0.0,0.0,304.0,302.0,2.0,True
+2022,tome,Camiones,Compuestos Orgánicos Volátiles,15.673178034,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),5.099999999999999e-10,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Dióxido de azufre (SO2),7.1431698830000006,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Dióxido de carbono (CO2),11349188188.046291,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,MP10,51.843467007,56,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,"MP2,5",60.553055214000004,56,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Material particulado,69.63253820199999,56,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Mercurio,2.07039e-06,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Metano (CH4),30.415586769999997,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Monóxido de carbono,10.922707525,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,NOx,7.913579182,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Nitrógeno amoniacal (o NH3),7.583047981,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Camiones,Oxido Nitroso,14.384112348,14,391.0,13.0,378.0,0.0,0.0,391.0,376.0,15.0,True
+2022,tome,Comerciales livianos,Compuestos Orgánicos Volátiles,15153736723.75683,21,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.4424e-07,14,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Dióxido de azufre (SO2),11.262622304,14,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Dióxido de carbono (CO2),68831887805.0,15,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,MP10,10766576031.865765,59,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,"MP2,5",10496449515.46069,59,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Material particulado,20936624170.525574,59,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Mercurio,0.00314814975,14,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Metano (CH4),13.637860737,12,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Monóxido de carbono,20945422961.72237,14,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,NOx,20862712609.784397,14,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Nitrógeno amoniacal (o NH3),0.62122507,7,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Comerciales livianos,Oxido Nitroso,12.318221611999999,14,3319.0,1464.0,1855.0,0.0,0.0,3319.0,3137.0,182.0,True
+2022,tome,Livianos pasajeros,Compuestos Orgánicos Volátiles,8108932182.084631,88,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.02543e-06,28,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Dióxido de azufre (SO2),31.690522061,74,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Dióxido de carbono (CO2),81298296509.4124,76,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,MP10,9214224985.785578,296,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,"MP2,5",4562364499.330249,296,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Material particulado,34970552317.23765,296,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Mercurio,0.00689346514,28,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Metano (CH4),31.836696518,74,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Monóxido de carbono,47158978858.24226,74,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,NOx,31524757582.64345,74,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Nitrógeno amoniacal (o NH3),1316005259.331602,34,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Livianos pasajeros,Oxido Nitroso,20.179905774,48,9638.0,8790.0,843.0,5.0,0.0,9638.0,9489.0,149.0,True
+2022,tome,Motocicletas,Compuestos Orgánicos Volátiles,1697263755.1927984,24,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.6131e-07,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Dióxido de azufre (SO2),7.67418256,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Dióxido de carbono (CO2),13692446246.0,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,MP10,22.220690117,48,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,"MP2,5",20.879953489,48,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Material particulado,21.303376657,48,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Mercurio,8.477877000000001e-05,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Metano (CH4),0.182915749,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Monóxido de carbono,6438558234.034249,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,NOx,0.292814369,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Nitrógeno amoniacal (o NH3),7.214280132000001,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2022,tome,Motocicletas,Oxido Nitroso,7.214280132000001,12,420.0,419.0,0.0,1.0,0.0,420.0,415.0,5.0,True
+2023,chiguayante,Buses,Compuestos Orgánicos Volátiles,2.8213636849999997,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.1329e-07,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Dióxido de azufre (SO2),0.20771104399999998,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Dióxido de carbono (CO2),372.690623537,24,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,MP10,10.480790198,93,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,"MP2,5",6.191079049,93,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Material particulado,24.477629031,93,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Mercurio,0.0008508900000000001,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Metano (CH4),0.40198900800000004,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Monóxido de carbono,14.701826226,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,NOx,19.628020626,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Nitrógeno amoniacal (o NH3),0.189637905,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Buses,Oxido Nitroso,0.778519008,21,653.0,200.0,453.0,0.0,0.0,653.0,653.0,0.0,True
+2023,chiguayante,Camiones,Compuestos Orgánicos Volátiles,1.534541162,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),5.63978e-08,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Dióxido de azufre (SO2),17.422534198999998,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Dióxido de carbono (CO2),49.483808001,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,MP10,17.830720622,56,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,"MP2,5",34.910914611,56,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Material particulado,275.564354543,56,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Mercurio,0.0002131663,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Metano (CH4),4.799916498,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Monóxido de carbono,10.880645722999999,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,NOx,19.962465873,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Nitrógeno amoniacal (o NH3),21.653229315,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Camiones,Oxido Nitroso,12.935972225999999,14,458.0,96.0,362.0,0.0,0.0,458.0,435.0,23.0,True
+2023,chiguayante,Comerciales livianos,Compuestos Orgánicos Volátiles,17.068950645,21,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),5.13212e-07,14,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Dióxido de azufre (SO2),7.290723025999999,14,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Dióxido de carbono (CO2),1293.551520783,15,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,MP10,29.210869223,59,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,"MP2,5",40.192877416,59,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Material particulado,30.713615193,59,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Mercurio,0.0017396401,14,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Metano (CH4),10.508067684,12,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Monóxido de carbono,26.535970064,14,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,NOx,20.666985848,14,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Nitrógeno amoniacal (o NH3),6.134743339,7,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Comerciales livianos,Oxido Nitroso,7.945130281000001,14,6258.0,2211.0,4046.0,1.0,0.0,6258.0,6165.0,93.0,True
+2023,chiguayante,Livianos pasajeros,Compuestos Orgánicos Volátiles,395.165780109,88,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.1887943510000001e-06,28,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Dióxido de azufre (SO2),17.315472753999998,74,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Dióxido de carbono (CO2),388.379900726,76,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,MP10,310.03559301,296,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,"MP2,5",152.875261179,296,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Material particulado,615.9194646560001,296,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Mercurio,0.0054404662,28,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Metano (CH4),29.77963994,74,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Monóxido de carbono,634.379510211,74,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,NOx,50.182644138,74,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Nitrógeno amoniacal (o NH3),10.79026773,34,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Livianos pasajeros,Oxido Nitroso,17.969836571000002,48,25779.0,23268.0,2398.0,113.0,0.0,25779.0,25541.0,238.0,True
+2023,chiguayante,Motocicletas,Compuestos Orgánicos Volátiles,4.72168939,24,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.5033999999999994e-07,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Dióxido de azufre (SO2),4.843295155,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Dióxido de carbono (CO2),155.53937657100002,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,MP10,8.029724004,48,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,"MP2,5",19.203073874,48,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Material particulado,2.1725564370000003,48,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Mercurio,0.00010776000000000001,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Metano (CH4),0.272419081,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Monóxido de carbono,3.3826083010000008,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,NOx,0.388753389,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Nitrógeno amoniacal (o NH3),11.153494082,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Motocicletas,Oxido Nitroso,11.153494082,12,766.0,762.0,1.0,3.0,0.0,766.0,763.0,3.0,True
+2023,chiguayante,Taxis,Compuestos Orgánicos Volátiles,0.0,44,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),0.0,14,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Dióxido de azufre (SO2),0.0,37,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Dióxido de carbono (CO2),0.0,38,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,MP10,0.0,148,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,"MP2,5",0.0,148,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Material particulado,0.0,148,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Mercurio,0.0,14,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Metano (CH4),0.0,37,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Monóxido de carbono,0.0,37,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,NOx,0.0,37,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Nitrógeno amoniacal (o NH3),0.0,17,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,chiguayante,Taxis,Oxido Nitroso,0.0,24,29.0,25.0,2.0,0.0,2.0,29.0,29.0,0.0,True
+2023,concepcion,Buses,Compuestos Orgánicos Volátiles,9.541506496,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.9707e-07,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Dióxido de azufre (SO2),0.708947238,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Dióxido de carbono (CO2),30.945001837,24,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,MP10,230.379165599,93,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,"MP2,5",195.385583016,93,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Material particulado,440.309675663,93,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Mercurio,0.00257396,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Metano (CH4),1.291220207,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Monóxido de carbono,859.0796822079999,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,NOx,161.991967701,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Nitrógeno amoniacal (o NH3),0.623241882,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Buses,Oxido Nitroso,2.546858166,21,573.0,31.0,542.0,0.0,0.0,573.0,572.0,1.0,True
+2023,concepcion,Camiones,Compuestos Orgánicos Volátiles,9.887510303000001,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.6494000000000003e-07,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Dióxido de azufre (SO2),0.303189778,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Dióxido de carbono (CO2),1098.445914318,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,MP10,200.493027145,56,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,"MP2,5",193.044392556,56,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Material particulado,212.048202858,56,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Mercurio,0.0018591600000000001,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Metano (CH4),10.694884011000001,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Monóxido de carbono,66.005986655,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,NOx,223.34825936700003,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Nitrógeno amoniacal (o NH3),0.381345516,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Camiones,Oxido Nitroso,0.826944477,14,1201.0,49.0,1152.0,0.0,0.0,1201.0,1146.0,55.0,True
+2023,concepcion,Comerciales livianos,Compuestos Orgánicos Volátiles,35.690171781000004,49,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.5342410000000003e-06,14,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Dióxido de azufre (SO2),0.852827333,14,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Dióxido de carbono (CO2),59.998053914,15,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,MP10,786.646255909,66,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,"MP2,5",37.128131333,66,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Material particulado,974.5106172989999,66,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Mercurio,0.00753389,14,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Metano (CH4),2.188255839,12,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Monóxido de carbono,157.669804177,28,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,NOx,29.88995033,28,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Nitrógeno amoniacal (o NH3),4.707425253,14,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Comerciales livianos,Oxido Nitroso,4.21738646,14,12910.0,5092.0,7794.0,23.0,1.0,12910.0,12659.0,251.0,True
+2023,concepcion,Livianos pasajeros,Compuestos Orgánicos Volátiles,127.746173519,146,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.008031952e-06,28,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Dióxido de azufre (SO2),40.243173186,74,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Dióxido de carbono (CO2),322.069386062,76,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,MP10,1845.025461228,310,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,"MP2,5",897.025990109,310,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Material particulado,934.091681129,310,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Mercurio,0.026638183,28,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Metano (CH4),46.011050861,74,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Monóxido de carbono,861.337124062,104,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,NOx,87.713374581,104,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Nitrógeno amoniacal (o NH3),20.952273281,68,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Livianos pasajeros,Oxido Nitroso,17.841290415,48,45977.0,41607.0,4222.0,119.0,29.0,45977.0,45533.0,444.0,True
+2023,concepcion,Motocicletas,Compuestos Orgánicos Volátiles,48.873546034,48,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.0555e-06,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Dióxido de azufre (SO2),0.014420455,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Dióxido de carbono (CO2),13.060077145,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,MP10,1.337068263,48,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,"MP2,5",0.460852333,48,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Material particulado,427.306395624,48,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Mercurio,0.00056967,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Metano (CH4),1.241494048,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Monóxido de carbono,101.40219771599999,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,NOx,1.793610864,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Nitrógeno amoniacal (o NH3),0.016431655,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Motocicletas,Oxido Nitroso,0.016431655,12,2709.0,2698.0,2.0,9.0,0.0,2709.0,2678.0,31.0,True
+2023,concepcion,Taxis,Compuestos Orgánicos Volátiles,16.059918547,73,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.519664e-07,14,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Dióxido de azufre (SO2),14.117192432,37,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Dióxido de carbono (CO2),1337.731463148,38,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,MP10,35.632780038,155,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,"MP2,5",44.231839799,155,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Material particulado,316.94115941800004,155,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Mercurio,0.00165746,14,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Metano (CH4),3.564052256,37,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Monóxido de carbono,18.978138248,52,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,NOx,155.54112538200002,52,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Nitrógeno amoniacal (o NH3),5.746061532,34,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,concepcion,Taxis,Oxido Nitroso,0.139462018,24,392.0,335.0,55.0,2.0,0.0,392.0,392.0,0.0,True
+2023,coronel,Buses,Compuestos Orgánicos Volátiles,1.7432655830000001,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.88471e-07,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Dióxido de azufre (SO2),0.187825864,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Dióxido de carbono (CO2),276.285495953,24,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,MP10,12.140581853,93,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,"MP2,5",4.108922751,93,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Material particulado,136.434271283,93,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Mercurio,0.00050061,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Metano (CH4),0.24173946000000002,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Monóxido de carbono,118.211517024,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,NOx,24.03925709,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Nitrógeno amoniacal (o NH3),0.182693106,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Buses,Oxido Nitroso,0.665907289,21,541.0,108.0,433.0,0.0,0.0,541.0,540.0,1.0,True
+2023,coronel,Camiones,Compuestos Orgánicos Volátiles,11.200523105,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.95964e-07,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Dióxido de azufre (SO2),0.31454272699999997,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Dióxido de carbono (CO2),1426.673819648,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,MP10,35.3699291,56,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,"MP2,5",18.158019337,56,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Material particulado,58.848220366999996,56,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Mercurio,0.00205311,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Metano (CH4),1.220909165,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Monóxido de carbono,23.008700277,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,NOx,46.828845234,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Nitrógeno amoniacal (o NH3),0.408609585,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Camiones,Oxido Nitroso,0.853276814,14,723.0,165.0,558.0,0.0,0.0,723.0,690.0,33.0,True
+2023,coronel,Comerciales livianos,Compuestos Orgánicos Volátiles,242.975723888,49,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.041296e-06,14,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Dióxido de azufre (SO2),13.613299777,14,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Dióxido de carbono (CO2),449.206929726,15,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,MP10,25.041802779,66,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,"MP2,5",17.358802869,66,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Material particulado,1328.560815345,66,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Mercurio,0.005401238,14,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Metano (CH4),6.146662139,12,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Monóxido de carbono,1504.723236871,28,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,NOx,725.9611528080001,28,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Nitrógeno amoniacal (o NH3),2.157652363,14,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Comerciales livianos,Oxido Nitroso,16.259531114999998,14,8794.0,3656.0,5029.0,6.0,103.0,8794.0,8685.0,109.0,True
+2023,coronel,Livianos pasajeros,Compuestos Orgánicos Volátiles,110.627843671,146,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.21076977e-06,28,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Dióxido de azufre (SO2),56.747846125,74,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Dióxido de carbono (CO2),1371.900827921,76,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,MP10,312.613213202,310,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,"MP2,5",175.907232589,310,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Material particulado,363.157726782,310,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Mercurio,0.008328157459999999,28,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Metano (CH4),70.289022952,74,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Monóxido de carbono,922.044664889,104,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,NOx,71.664486164,104,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Nitrógeno amoniacal (o NH3),30.723103843,68,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Livianos pasajeros,Oxido Nitroso,38.472027841,48,36769.0,33393.0,2166.0,116.0,1094.0,36769.0,36618.0,151.0,True
+2023,coronel,Motocicletas,Compuestos Orgánicos Volátiles,7.875121043,48,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),5.139000000000001e-07,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Dióxido de azufre (SO2),4.913480681,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Dióxido de carbono (CO2),18.816994328,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,MP10,1.326262235,48,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,"MP2,5",10.387632705,48,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Material particulado,2.633335761,48,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Mercurio,0.000140742,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Metano (CH4),0.310679592,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Monóxido de carbono,3.573611031,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,NOx,0.4534261560000001,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Nitrógeno amoniacal (o NH3),12.723984816,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Motocicletas,Oxido Nitroso,12.723984816,12,925.0,913.0,0.0,12.0,0.0,925.0,918.0,7.0,True
+2023,coronel,Taxis,Compuestos Orgánicos Volátiles,21.385105732,73,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.4103e-07,14,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Dióxido de azufre (SO2),10.936385272,37,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Dióxido de carbono (CO2),374.425057006,38,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,MP10,30.220161549,155,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,"MP2,5",35.493401389,155,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Material particulado,949.774588296,155,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Mercurio,0.00131481,14,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Metano (CH4),3.041805719,37,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Monóxido de carbono,25.802084415,52,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,NOx,36.337461217,52,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Nitrógeno amoniacal (o NH3),1.7612379839999999,34,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,coronel,Taxis,Oxido Nitroso,0.119142198,24,680.0,574.0,105.0,1.0,0.0,680.0,680.0,0.0,True
+2023,hualpen,Buses,Compuestos Orgánicos Volátiles,2.598273129,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.7448e-07,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Dióxido de azufre (SO2),0.185793929,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Dióxido de carbono (CO2),506.733213178,24,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,MP10,17.028586366,93,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,"MP2,5",5.212456554,93,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Material particulado,676.971729942,93,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Mercurio,0.0006968899999999999,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Metano (CH4),0.332117288,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Monóxido de carbono,342.299158158,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,NOx,139.368025991,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Nitrógeno amoniacal (o NH3),0.155124013,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Buses,Oxido Nitroso,0.636816936,21,2697.0,311.0,2365.0,21.0,0.0,2697.0,2696.0,1.0,True
+2023,hualpen,Camiones,Compuestos Orgánicos Volátiles,4.539846949,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.29046e-07,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Dióxido de azufre (SO2),5.070407906,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Dióxido de carbono (CO2),212.11956236199998,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,MP10,15.669818759,56,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,"MP2,5",10.431600427,56,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Material particulado,190.79454826900002,56,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Mercurio,0.00094485,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Metano (CH4),4.040194174,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Monóxido de carbono,120.69070912699999,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,NOx,22.055527213,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Nitrógeno amoniacal (o NH3),4.268408216,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Camiones,Oxido Nitroso,8.890497777,14,2383.0,285.0,2097.0,1.0,0.0,2383.0,2320.0,63.0,True
+2023,hualpen,Comerciales livianos,Compuestos Orgánicos Volátiles,507.200223521,49,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.13052e-07,14,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Dióxido de azufre (SO2),4.427777717,14,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Dióxido de carbono (CO2),1190.2847825079998,15,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,MP10,25.72389225,66,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,"MP2,5",48.77734254400001,66,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Material particulado,157.988753651,66,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Mercurio,0.0032495676000000003,14,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Metano (CH4),12.93704026,12,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Monóxido de carbono,1414.915770802,28,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,NOx,27.639543176,28,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Nitrógeno amoniacal (o NH3),9.101445042,14,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Comerciales livianos,Oxido Nitroso,9.775906813,14,8461.0,2983.0,5467.0,10.0,1.0,8461.0,8332.0,129.0,True
+2023,hualpen,Livianos pasajeros,Compuestos Orgánicos Volátiles,288.123274934,146,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.36434797e-06,28,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Dióxido de azufre (SO2),47.750438564,74,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Dióxido de carbono (CO2),1562.6060551720002,76,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,MP10,723.315651061,310,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,"MP2,5",198.377843371,310,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Material particulado,893.488693171,310,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Mercurio,0.0061674167,28,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Metano (CH4),43.090956651999996,74,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Monóxido de carbono,614.251085329,104,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,NOx,440.215327226,104,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Nitrógeno amoniacal (o NH3),29.076927576000003,68,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Livianos pasajeros,Oxido Nitroso,23.356510606,48,30595.0,27975.0,2598.0,22.0,0.0,30595.0,30281.0,314.0,True
+2023,hualpen,Motocicletas,Compuestos Orgánicos Volátiles,11.279811067,48,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),7.3529e-07,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Dióxido de azufre (SO2),6.834883618,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Dióxido de carbono (CO2),26.290143583,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,MP10,0.5491264770000001,48,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,"MP2,5",14.751826682999999,48,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Material particulado,2.51934726,48,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Mercurio,0.00020567,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Metano (CH4),0.444565879,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Monóxido de carbono,5.018442182,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,NOx,0.653379977,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Nitrógeno amoniacal (o NH3),5.8458256429999995,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Motocicletas,Oxido Nitroso,5.8458256429999995,12,1941.0,1936.0,2.0,3.0,0.0,1941.0,1932.0,9.0,True
+2023,hualpen,Taxis,Compuestos Orgánicos Volátiles,16.424206906,73,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.77455e-08,14,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Dióxido de azufre (SO2),17.107400052,37,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Dióxido de carbono (CO2),2243.353607907,38,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,MP10,51.42657509,155,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,"MP2,5",57.694613504,155,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Material particulado,208.387928749,155,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Mercurio,0.00023026900000000001,14,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Metano (CH4),22.302157051,37,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Monóxido de carbono,16.696038695,52,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,NOx,15.080795183000001,52,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Nitrógeno amoniacal (o NH3),2.135676369,34,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualpen,Taxis,Oxido Nitroso,5.928814966,24,277.0,229.0,46.0,1.0,1.0,277.0,277.0,0.0,True
+2023,hualqui,Buses,Compuestos Orgánicos Volátiles,0.41503794,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.1264999999999996e-08,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Dióxido de azufre (SO2),0.030809715,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Dióxido de carbono (CO2),902.112289503,24,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,MP10,6.457939011,93,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,"MP2,5",1.746129593,93,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Material particulado,14.377084723,93,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Mercurio,0.0001245344,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Metano (CH4),0.057232684000000006,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Monóxido de carbono,356.043875706,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,NOx,17.504184522,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Nitrógeno amoniacal (o NH3),5.4278310020000005,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Buses,Oxido Nitroso,0.11448306999999999,21,204.0,20.0,184.0,0.0,0.0,204.0,204.0,0.0,True
+2023,hualqui,Camiones,Compuestos Orgánicos Volátiles,0.547968335,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.27413e-08,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Dióxido de azufre (SO2),17.843168309,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Dióxido de carbono (CO2),586.981054673,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,MP10,40.654382805000004,56,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,"MP2,5",25.321468295,56,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Material particulado,57.982946151,56,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Mercurio,9.09753e-05,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Metano (CH4),1.606353049,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Monóxido de carbono,3.45824933,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,NOx,10.220000321,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Nitrógeno amoniacal (o NH3),12.04291443,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Camiones,Oxido Nitroso,17.596691371000002,14,254.0,17.0,237.0,0.0,0.0,254.0,243.0,11.0,True
+2023,hualqui,Comerciales livianos,Compuestos Orgánicos Volátiles,20.598296544,21,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.1908315e-07,14,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Dióxido de azufre (SO2),4.762009255,14,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Dióxido de carbono (CO2),591.934566087,15,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,MP10,27.674794993000003,59,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,"MP2,5",17.49159977,59,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Material particulado,276.672220434,59,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Mercurio,0.0005817819000000001,14,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Metano (CH4),2.394703283,12,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Monóxido de carbono,29.09880707,14,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,NOx,706.890582523,14,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Nitrógeno amoniacal (o NH3),1.4037918040000001,7,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Comerciales livianos,Oxido Nitroso,1.813329885,14,2590.0,1097.0,1493.0,0.0,0.0,2590.0,2500.0,90.0,True
+2023,hualqui,Livianos pasajeros,Compuestos Orgánicos Volátiles,34.220928219,88,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.716981048e-07,28,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Dióxido de azufre (SO2),22.167769838999998,74,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Dióxido de carbono (CO2),1119.424928633,76,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,MP10,205.369703335,296,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,"MP2,5",102.576872704,296,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Material particulado,488.17328372000003,296,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Mercurio,0.001619751134,28,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Metano (CH4),33.088646716,74,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Monóxido de carbono,48.526942464,74,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,NOx,45.456897754,74,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Nitrógeno amoniacal (o NH3),4.534249149,34,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Livianos pasajeros,Oxido Nitroso,12.315734424,48,3990.0,3648.0,341.0,1.0,0.0,3990.0,3903.0,87.0,True
+2023,hualqui,Motocicletas,Compuestos Orgánicos Volátiles,9.225528909000001,24,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.0614e-07,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Dióxido de azufre (SO2),10.730623811000001,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Dióxido de carbono (CO2),143.290925765,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,MP10,19.374838213,48,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,"MP2,5",20.620641983,48,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Material particulado,23.279790915,48,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Mercurio,2.9738999999999998e-05,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Metano (CH4),0.064135849,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Monóxido de carbono,488.08783657,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,NOx,8.973646536,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Nitrógeno amoniacal (o NH3),8.352765314,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Motocicletas,Oxido Nitroso,8.352765314,12,209.0,207.0,0.0,2.0,0.0,209.0,209.0,0.0,True
+2023,hualqui,Taxis,Compuestos Orgánicos Volátiles,0.0,44,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),0.0,14,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Dióxido de azufre (SO2),0.0,37,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Dióxido de carbono (CO2),0.0,38,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,MP10,0.0,148,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,"MP2,5",0.0,148,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Material particulado,0.0,148,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Mercurio,0.0,14,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Metano (CH4),0.0,37,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Monóxido de carbono,0.0,37,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,NOx,0.0,37,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Nitrógeno amoniacal (o NH3),0.0,17,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,hualqui,Taxis,Oxido Nitroso,0.0,24,2.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,True
+2023,lota,Buses,Compuestos Orgánicos Volátiles,0.5282442190000001,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.2850700000000004e-08,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Dióxido de azufre (SO2),0.052265527,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Dióxido de carbono (CO2),35.315428903000004,24,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,MP10,3.6962029000000003,93,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,"MP2,5",1.203246467,93,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Material particulado,641.4683942300001,93,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Mercurio,0.000198004,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Metano (CH4),0.065095197,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Monóxido de carbono,12.047967071999999,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,NOx,14.270577536000001,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Nitrógeno amoniacal (o NH3),5.217777077,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Buses,Oxido Nitroso,0.175130615,21,297.0,9.0,288.0,0.0,0.0,297.0,295.0,2.0,True
+2023,lota,Camiones,Compuestos Orgánicos Volátiles,2.758844332,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),9.0175e-08,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Dióxido de azufre (SO2),3.9387655749999997,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Dióxido de carbono (CO2),680.3967391949999,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,MP10,205.059966751,56,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,"MP2,5",12.516441604999999,56,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Material particulado,120.004317091,56,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Mercurio,0.00048975,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Metano (CH4),3.101948363,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Monóxido de carbono,13.67564911,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,NOx,359.101070157,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Nitrógeno amoniacal (o NH3),9.937808053,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Camiones,Oxido Nitroso,6.814590756,14,170.0,0.0,170.0,0.0,0.0,170.0,160.0,10.0,True
+2023,lota,Comerciales livianos,Compuestos Orgánicos Volátiles,217.326299134,49,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.91779e-07,14,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Dióxido de azufre (SO2),8.465623889,14,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Dióxido de carbono (CO2),71.102549999,15,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,MP10,33.370769351,66,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,"MP2,5",24.317194211,66,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Material particulado,52.563658103,66,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Mercurio,0.00052476051,14,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Metano (CH4),4.086732482,12,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Monóxido de carbono,955.145548265,28,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,NOx,160.287484505,28,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Nitrógeno amoniacal (o NH3),3.371283833,14,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Comerciales livianos,Oxido Nitroso,3.0913884719999998,14,1621.0,680.0,941.0,0.0,0.0,1621.0,1579.0,42.0,True
+2023,lota,Livianos pasajeros,Compuestos Orgánicos Volátiles,129.963401067,146,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.6697518e-07,28,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Dióxido de azufre (SO2),25.745279091,74,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Dióxido de carbono (CO2),408.666026538,76,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,MP10,202.632429899,310,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,"MP2,5",162.27499524,310,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Material particulado,189.61106648,310,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Mercurio,0.0017001016999999999,28,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Metano (CH4),30.740987484999998,74,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Monóxido de carbono,65.572506444,104,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,NOx,46.212606992000005,104,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Nitrógeno amoniacal (o NH3),12.277302204,68,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Livianos pasajeros,Oxido Nitroso,14.26228853,48,6438.0,5803.0,629.0,6.0,0.0,6438.0,6396.0,42.0,True
+2023,lota,Motocicletas,Compuestos Orgánicos Volátiles,10.839149196000001,48,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.0059700000000001e-07,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Dióxido de azufre (SO2),8.538619156000001,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Dióxido de carbono (CO2),190.329483772,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,MP10,18.472703998,48,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,"MP2,5",20.358286075,48,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Material particulado,17.638719022,48,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Mercurio,2.813e-05,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Metano (CH4),0.060778402,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Monóxido de carbono,7.269924218000001,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,NOx,8.907951457000001,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Nitrógeno amoniacal (o NH3),7.91872525,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Motocicletas,Oxido Nitroso,7.91872525,12,179.0,179.0,0.0,0.0,0.0,179.0,174.0,5.0,True
+2023,lota,Taxis,Compuestos Orgánicos Volátiles,16.711523117,73,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),9.0803e-08,14,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Dióxido de azufre (SO2),13.845153273,37,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Dióxido de carbono (CO2),196.56092164600003,38,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,MP10,47.540069203,155,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,"MP2,5",50.297123313,155,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Material particulado,69.005489705,155,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Mercurio,0.00062453,14,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Metano (CH4),20.609679775,37,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Monóxido de carbono,156.914346758,52,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,NOx,11.266396364,52,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Nitrógeno amoniacal (o NH3),8.148330469,34,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,lota,Taxis,Oxido Nitroso,0.049566517,24,232.0,200.0,30.0,1.0,1.0,232.0,232.0,0.0,True
+2023,penco,Buses,Compuestos Orgánicos Volátiles,1.9705298230000001,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.47409e-07,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Dióxido de azufre (SO2),0.14781281799999998,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Dióxido de carbono (CO2),1058.588359378,24,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,MP10,8.878701762,93,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,"MP2,5",3.026415065,93,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Material particulado,19.177664469,93,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Mercurio,0.0005856344,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Metano (CH4),0.265811449,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Monóxido de carbono,10.658439923,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,NOx,23.494930463000003,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Nitrógeno amoniacal (o NH3),0.131752705,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Buses,Oxido Nitroso,0.539009324,21,370.0,9.0,361.0,0.0,0.0,370.0,370.0,0.0,True
+2023,penco,Camiones,Compuestos Orgánicos Volátiles,3.8855084019999997,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.1281299999999999e-07,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Dióxido de azufre (SO2),5.367628114,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Dióxido de carbono (CO2),923.989148196,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,MP10,350.947358414,56,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,"MP2,5",5.1591687959999994,56,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Material particulado,205.160737341,56,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Mercurio,0.0007979135,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Metano (CH4),4.363233881,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Monóxido de carbono,18.124197178,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,NOx,588.472866376,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Nitrógeno amoniacal (o NH3),4.627065186,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Camiones,Oxido Nitroso,9.58917874,14,454.0,3.0,451.0,0.0,0.0,454.0,436.0,18.0,True
+2023,penco,Comerciales livianos,Compuestos Orgánicos Volátiles,27.93154119,21,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.39956e-07,14,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Dióxido de azufre (SO2),12.344094903,14,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Dióxido de carbono (CO2),323.909089956,15,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,MP10,23.093885501,59,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,"MP2,5",21.839571027,59,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Material particulado,34.535947116,59,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Mercurio,0.004744211,14,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Metano (CH4),5.399975516,12,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Monóxido de carbono,861.389595679,14,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,NOx,25.42631781,14,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Nitrógeno amoniacal (o NH3),0.8179164299999999,7,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Comerciales livianos,Oxido Nitroso,14.283921262,14,3456.0,1215.0,2241.0,0.0,0.0,3456.0,3356.0,100.0,True
+2023,penco,Livianos pasajeros,Compuestos Orgánicos Volátiles,470.13065486799997,88,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.32647113e-06,28,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Dióxido de azufre (SO2),52.889714555,74,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Dióxido de carbono (CO2),342.54908252999996,76,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,MP10,290.568051961,296,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,"MP2,5",143.15210404,296,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Material particulado,311.758443805,296,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Mercurio,0.008281599399999999,28,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Metano (CH4),49.480566448,74,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Monóxido de carbono,359.04807709799996,74,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,NOx,412.356435512,74,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Nitrógeno amoniacal (o NH3),27.451598235,34,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Livianos pasajeros,Oxido Nitroso,24.154178759,48,10350.0,9429.0,914.0,7.0,0.0,10350.0,10227.0,123.0,True
+2023,penco,Motocicletas,Compuestos Orgánicos Volátiles,4.229258822,24,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.7612999999999996e-07,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Dióxido de azufre (SO2),4.042993836,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Dióxido de carbono (CO2),15.847746991,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,MP10,16.85772611,48,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,"MP2,5",28.161153204999998,48,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Material particulado,10.729273703,48,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Mercurio,0.00013343,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Metano (CH4),0.288024499,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Monóxido de carbono,100.66941105800001,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,NOx,0.428574783,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Nitrógeno amoniacal (o NH3),11.793694238999999,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Motocicletas,Oxido Nitroso,11.793694238999999,12,516.0,512.0,4.0,0.0,0.0,516.0,512.0,4.0,True
+2023,penco,Taxis,Compuestos Orgánicos Volátiles,6.876998217,44,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.5562e-08,14,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Dióxido de azufre (SO2),20.47954602,37,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Dióxido de carbono (CO2),1516.361556261,38,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,MP10,38.393013888,148,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,"MP2,5",53.763934065,148,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Material particulado,46.561514253999995,148,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Mercurio,0.00014232,14,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Metano (CH4),30.013319225,37,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Monóxido de carbono,5.765555151,37,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,NOx,5.867365544999999,37,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Nitrógeno amoniacal (o NH3),0.010027155,17,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,penco,Taxis,Oxido Nitroso,12.512511791999998,24,115.0,74.0,38.0,0.0,3.0,115.0,115.0,0.0,True
+2023,san pedro de la paz,Buses,Compuestos Orgánicos Volátiles,3.509709685,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.0699000000000003e-07,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Dióxido de azufre (SO2),0.26669735299999997,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Dióxido de carbono (CO2),199.75474185500002,24,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,MP10,12.538049743,93,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,"MP2,5",289.713057977,93,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Material particulado,357.23643034099996,93,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Mercurio,0.00103758,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Metano (CH4),0.4693854049999999,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Monóxido de carbono,20.220486025,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,NOx,489.136834775,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Nitrógeno amoniacal (o NH3),0.232235157,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Buses,Oxido Nitroso,0.947510252,21,814.0,159.0,655.0,0.0,0.0,814.0,813.0,1.0,True
+2023,san pedro de la paz,Camiones,Compuestos Orgánicos Volátiles,8.654082202,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.8493e-07,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Dióxido de azufre (SO2),0.29688466599999996,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Dióxido de carbono (CO2),742.066213064,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,MP10,22.256339348,56,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,"MP2,5",13.044140762,56,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Material particulado,38.01860094,56,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Mercurio,0.00153569,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Metano (CH4),8.096599484,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Monóxido de carbono,26.775240230999998,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,NOx,197.28782711300002,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Nitrógeno amoniacal (o NH3),8.582616676,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Camiones,Oxido Nitroso,0.720082991,14,1623.0,261.0,1360.0,2.0,0.0,1623.0,1591.0,32.0,True
+2023,san pedro de la paz,Comerciales livianos,Compuestos Orgánicos Volátiles,350.144460846,49,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.7310826999999997e-06,14,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Dióxido de azufre (SO2),0.569610688,14,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Dióxido de carbono (CO2),69.19216129,15,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,MP10,51.603233450000005,66,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,"MP2,5",43.869780309,66,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Material particulado,73.087091269,66,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Mercurio,0.008751729,14,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Metano (CH4),1.506464548,12,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Monóxido de carbono,39.732438642000005,28,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,NOx,144.778764368,28,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Nitrógeno amoniacal (o NH3),3.6335345070000002,14,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Comerciales livianos,Oxido Nitroso,12.128863076000002,14,7817.0,2769.0,5044.0,4.0,0.0,7817.0,7702.0,115.0,True
+2023,san pedro de la paz,Livianos pasajeros,Compuestos Orgánicos Volátiles,466.250576266,146,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.5694825e-06,28,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Dióxido de azufre (SO2),46.273887464,74,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Dióxido de carbono (CO2),2704.280732693,76,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,MP10,639.514239019,310,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,"MP2,5",647.513624054,310,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Material particulado,2003.929928415,310,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Mercurio,0.019037014999999997,28,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Metano (CH4),48.412857683,74,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Monóxido de carbono,261.625911055,104,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,NOx,73.206479676,104,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Nitrógeno amoniacal (o NH3),21.598471527,68,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Livianos pasajeros,Oxido Nitroso,30.709190047,48,29262.0,26518.0,2701.0,43.0,0.0,29262.0,29050.0,212.0,True
+2023,san pedro de la paz,Motocicletas,Compuestos Orgánicos Volátiles,18.999968377000002,48,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.1480999999999999e-06,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Dióxido de azufre (SO2),0.009812049,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Dióxido de carbono (CO2),585.838400578,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,MP10,0.8645213679999999,48,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,"MP2,5",0.299177882,48,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Material particulado,3.875626106,48,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Mercurio,0.00035318,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Metano (CH4),0.812729913,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Monóxido de carbono,9.952352816,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,NOx,1.1683932670000001,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Nitrógeno amoniacal (o NH3),0.010756795,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Motocicletas,Oxido Nitroso,0.010756795,12,1547.0,1534.0,1.0,12.0,0.0,1547.0,1538.0,9.0,True
+2023,san pedro de la paz,Taxis,Compuestos Orgánicos Volátiles,47.537757264,73,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.0295e-09,14,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Dióxido de azufre (SO2),34.868339021,37,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Dióxido de carbono (CO2),496.71247816700003,38,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,MP10,102.767378521,155,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,"MP2,5",116.592992011,155,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Material particulado,78.760496315,155,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Mercurio,2.30544e-05,14,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Metano (CH4),17.789511270000002,37,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Monóxido de carbono,34.777463195,52,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,NOx,16.338742494999998,52,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Nitrógeno amoniacal (o NH3),6.617013896,34,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,san pedro de la paz,Taxis,Oxido Nitroso,2.41879445,24,38.0,33.0,5.0,0.0,0.0,38.0,38.0,0.0,True
+2023,talcahuano,Buses,Compuestos Orgánicos Volátiles,5.345955488,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),4.2633e-07,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Dióxido de azufre (SO2),0.396899424,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Dióxido de carbono (CO2),297.892278363,24,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,MP10,203.421998353,93,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,"MP2,5",11.011161006,93,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Material particulado,42.349073969,93,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Mercurio,0.00032700000000000003,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Metano (CH4),0.808669717,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Monóxido de carbono,728.556981639,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,NOx,15.142755189999999,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Nitrógeno amoniacal (o NH3),0.379842575,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Buses,Oxido Nitroso,1.559351545,21,459.0,36.0,423.0,0.0,0.0,459.0,457.0,2.0,True
+2023,talcahuano,Camiones,Compuestos Orgánicos Volátiles,7.455898759999999,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.74576e-07,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Dióxido de azufre (SO2),9.433152871999999,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Dióxido de carbono (CO2),63.047124203,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,MP10,25.600607735,56,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,"MP2,5",30.285070403,56,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Material particulado,29.412653466000002,56,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Mercurio,0.001495725,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Metano (CH4),7.582329852000001,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Monóxido de carbono,23.911479664999998,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,NOx,34.311461588,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Nitrógeno amoniacal (o NH3),8.029074235,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Camiones,Oxido Nitroso,0.7212510300000001,14,1187.0,0.0,1186.0,1.0,0.0,1187.0,1148.0,39.0,True
+2023,talcahuano,Comerciales livianos,Compuestos Orgánicos Volátiles,24.769723822,49,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.218028e-06,14,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Dióxido de azufre (SO2),17.922480426,14,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Dióxido de carbono (CO2),68.146131302,15,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,MP10,599.565700373,66,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,"MP2,5",205.670929714,66,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Material particulado,695.6963654299999,66,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Mercurio,0.00683383,14,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Metano (CH4),1.78217596,12,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Monóxido de carbono,37.517748859,28,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,NOx,39.500236333000004,28,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Nitrógeno amoniacal (o NH3),2.661356747,14,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Comerciales livianos,Oxido Nitroso,9.50545957,14,8180.0,2718.0,5462.0,0.0,0.0,8180.0,8072.0,108.0,True
+2023,talcahuano,Livianos pasajeros,Compuestos Orgánicos Volátiles,627.07960971,146,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.70619035e-06,28,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Dióxido de azufre (SO2),65.552282863,74,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Dióxido de carbono (CO2),162.167876657,76,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,MP10,414.53524580699997,310,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,"MP2,5",420.189286037,310,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Material particulado,513.832130877,310,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Mercurio,0.0148130812,28,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Metano (CH4),69.761039592,74,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Monóxido de carbono,2625.584084901,104,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,NOx,592.819014064,104,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Nitrógeno amoniacal (o NH3),39.012444912,68,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Livianos pasajeros,Oxido Nitroso,27.560934977000002,48,32085.0,29493.0,2563.0,29.0,0.0,32085.0,31841.0,244.0,True
+2023,talcahuano,Motocicletas,Compuestos Orgánicos Volátiles,9.405422842,48,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.554e-06,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Dióxido de azufre (SO2),0.010633923,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Dióxido de carbono (CO2),16.476287736,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,MP10,1.31259082,48,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,"MP2,5",0.42124920099999996,48,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Material particulado,6.116589087,48,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Mercurio,0.00043412999999999997,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Metano (CH4),0.9377568399999999,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Monóxido de carbono,10.788581336,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,NOx,1.3657063010000001,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Nitrógeno amoniacal (o NH3),0.012411576999999998,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Motocicletas,Oxido Nitroso,0.012411576999999998,12,1552.0,1549.0,1.0,2.0,0.0,1552.0,1539.0,13.0,True
+2023,talcahuano,Taxis,Compuestos Orgánicos Volátiles,193.561652309,73,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),8.5132e-08,14,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Dióxido de azufre (SO2),5.293695864000001,37,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Dióxido de carbono (CO2),1831.6188339250002,38,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,MP10,37.917985697,155,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,"MP2,5",39.917388308,155,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Material particulado,293.398929582,155,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Mercurio,0.00064827,14,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Metano (CH4),20.238798715,37,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Monóxido de carbono,10.432691262,52,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,NOx,120.363244988,52,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Nitrógeno amoniacal (o NH3),1.954013241,34,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,talcahuano,Taxis,Oxido Nitroso,0.051435193,24,232.0,153.0,79.0,0.0,0.0,232.0,232.0,0.0,True
+2023,tome,Buses,Compuestos Orgánicos Volátiles,0.893917469,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.315100000000001e-08,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Dióxido de azufre (SO2),0.065011837,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Dióxido de carbono (CO2),20.097485718999998,24,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,MP10,2.222996654,93,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,"MP2,5",0.942387911,93,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Material particulado,7.96774951,93,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Mercurio,0.00026786,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Metano (CH4),0.125409993,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Monóxido de carbono,130.905920632,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,NOx,18.367606567000003,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Nitrógeno amoniacal (o NH3),0.059589789,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Buses,Oxido Nitroso,0.24463693,21,313.0,14.0,299.0,0.0,0.0,313.0,310.0,3.0,True
+2023,tome,Camiones,Compuestos Orgánicos Volátiles,1.988765881,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Dibenzoparadioxinas policloradas y furanos (PCDD/F),8.44507e-08,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Dióxido de azufre (SO2),3.076842664,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Dióxido de carbono (CO2),174.201382943,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,MP10,5.756247062,56,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,"MP2,5",17.585777052,56,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Material particulado,22.673451143,56,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Mercurio,0.0003363377,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Metano (CH4),6.0896881800000005,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Monóxido de carbono,15.016888339000001,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,NOx,908.2648316240001,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Nitrógeno amoniacal (o NH3),19.971642072,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Camiones,Oxido Nitroso,5.384429044999999,14,424.0,18.0,406.0,0.0,0.0,424.0,411.0,13.0,True
+2023,tome,Comerciales livianos,Compuestos Orgánicos Volátiles,29.254648431,21,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Dibenzoparadioxinas policloradas y furanos (PCDD/F),6.39981e-07,14,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Dióxido de azufre (SO2),4.60168936,14,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Dióxido de carbono (CO2),224.32113294599998,15,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,MP10,23.225481389,59,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,"MP2,5",42.827154012,59,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Material particulado,35.856512761,59,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Mercurio,0.003217027,14,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Metano (CH4),12.895534913,12,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Monóxido de carbono,31.453797151,14,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,NOx,430.00490116099996,14,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Nitrógeno amoniacal (o NH3),7.528284379,7,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Comerciales livianos,Oxido Nitroso,9.753005153,14,3606.0,1545.0,2061.0,0.0,0.0,3606.0,3428.0,178.0,True
+2023,tome,Livianos pasajeros,Compuestos Orgánicos Volátiles,54.252363565,88,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Dibenzoparadioxinas policloradas y furanos (PCDD/F),1.065324625e-06,28,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Dióxido de azufre (SO2),62.711324536,74,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Dióxido de carbono (CO2),514.55490337,76,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,MP10,515.047042107,296,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,"MP2,5",345.01183945,296,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Material particulado,1059.871815666,296,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Mercurio,0.0065187147,28,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Metano (CH4),63.917513808,74,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Monóxido de carbono,51.907096068,74,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,NOx,239.995270441,74,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Nitrógeno amoniacal (o NH3),18.694585897,34,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Livianos pasajeros,Oxido Nitroso,40.246185172,48,10516.0,9576.0,937.0,3.0,0.0,10516.0,10378.0,138.0,True
+2023,tome,Motocicletas,Compuestos Orgánicos Volátiles,11.133049971999998,24,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Dibenzoparadioxinas policloradas y furanos (PCDD/F),3.2733000000000006e-07,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Dióxido de azufre (SO2),11.022053239000002,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Dióxido de carbono (CO2),19.106171877999998,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,MP10,14.760522909,48,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,"MP2,5",26.677482965,48,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Material particulado,23.256431183,48,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Mercurio,9.172899999999999e-05,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Metano (CH4),0.197922767,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Monóxido de carbono,8.522863246,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,NOx,0.294068391,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Nitrógeno amoniacal (o NH3),8.102538583,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Motocicletas,Oxido Nitroso,8.102538583,12,435.0,434.0,0.0,1.0,0.0,435.0,430.0,5.0,True
+2023,tome,Taxis,Compuestos Orgánicos Volátiles,11.002661248999999,44,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Dibenzoparadioxinas policloradas y furanos (PCDD/F),2.8231399999999998e-08,14,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Dióxido de azufre (SO2),5.514750234,37,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Dióxido de carbono (CO2),66.391100677,38,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,MP10,37.860629011,148,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,"MP2,5",31.613867063,148,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Material particulado,47.544970322,148,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Mercurio,0.0001686739,14,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Metano (CH4),18.071871192,37,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Monóxido de carbono,391.221029309,37,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,NOx,9.350949029,37,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Nitrógeno amoniacal (o NH3),0.015934982,17,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
+2023,tome,Taxis,Oxido Nitroso,0.649019281,24,385.0,341.0,44.0,0.0,0.0,385.0,385.0,0.0,True
