@@ -22,6 +22,6 @@ Al cruzar los datos del volumen y tipo de vehículos en circulación con los per
 
  # Estructura del Repositorio:                                   
  ┣ data/                                                                                            
- ┣ notebooks/ analisis_emisiones.ipynb                                     # Cuaderno principal con el procesamiento y análisis                                 
+ ┣ notebooks/                                # Cuadernos con el procesamiento y análisis                                 
  ┣ README.md/                                # Descripción general del proyecto                                                       
  ┗ requirements.txt/                         # Dependencias de Python para replicar el entorno                                                 
